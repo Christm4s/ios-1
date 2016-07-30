@@ -45,7 +45,7 @@ limitations under the License.
 
 ## Contributing
 
-If you make improvements to this application, please share them with others...
+If you make improvements to this application, please share them with others.
 
 - Fork the project on GitHub.
 - Make your feature addition or bug fix.
